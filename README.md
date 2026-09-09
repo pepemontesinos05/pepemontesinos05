@@ -1,8 +1,8 @@
-# <p align="center">Hi there, I'm Jose Montesinos 👋</p>
+# <p align="center">¡Hola a todos, soy Jose Montesinos! 👋</p>
 
 <p align="center">
-  <b>Data Science & Engineering Student | Data Scientist & AI Engineer</b><br>
-  📍 Murcia, Spain
+  <b>Estudiante de Ciencia e Ingeniería de Datos | Data Scientist & AI Engineer</b><br>
+  📍 Murcia, España
 </p>
 
 <p align="center">
@@ -12,23 +12,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pepemontesinos05&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pepemontesinos05&label=Visitas%20al%20Perfil&color=0e76a8&style=flat" alt="Visitas al Perfil" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-- 🎓 Final-year **Data Science and Engineering** student at **Universidad de Murcia (UMU)**.
-- 💡 Passionate about building end-to-end **Applied AI**, **Local LLMs & Agentic Workflows**, and scalable **Cloud Data Infrastructure**.
-- 🛠️ Hands-on experience developing modular AI backends, deploying containerized microservices, and implementing predictive deep learning pipelines.
-- 🎯 Looking for internship / junior opportunities in **Data Science**, **Machine Learning**, and **Cloud Data Engineering**.
+- 🎓 Estudiante de último curso del **Grado en Ciencia e Ingeniería de Datos** en la **Universidad de Murcia (UMU)**.
+- 💡 Apasionado por el desarrollo de soluciones y predicciones mediante modelos de ML, **IA Aplicada**, y diseño de pipelines con arquitecturas escalables en la **Nube**.
+- 🛠️ Experiencia práctica creando backends modulares de IA, desplegando microservicios contenerizados y diseñando pipelines predictivos de Deep Learning.
+- 🎯 En búsqueda activa de oportunidades de prácticas o posiciones junior en **Data Science**, **Machine Learning** y **Cloud Data Engineering**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologías y Herramientas
 
-#### **Programming Languages**
+#### **Lenguajes de Programación**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-#### **AI, Machine Learning & Data Engineering**
+#### **IA, Machine Learning e Ingeniería de Datos**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-#### **Cloud, DevOps & Systems**
+#### **Cloud, DevOps y Sistemas**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -58,23 +58,17 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
-| Project | Tech Stack | Highlights |
+| Proyecto | Stack Tecnológico | Aspectos Clave |
 | :--- | :--- | :--- |
-| **Jarvis — Local AI Voice Assistant** | `Python` `Ollama` `STT/TTS` `WSL` | Private, autonomous voice agent powered by local LLMs, asynchronous speech pipelines, and modular OS function calling. |
-| **Cloud Infrastructure & Pipelines in AWS** | `AWS ECS` `Fargate` `Docker` `IaC` | High-availability containerized services with CloudFormation, ALB, CloudWatch, and environmental telemetry ETL analysis. |
-| **Financial Time Series Forecasting** | `PyTorch` `LSTM` `GRU` `Pandas` | End-to-end automated data pipeline extracting Coinbase API streams for crypto market volatility forecasting. |
+| **Jarvis — Asistente de IA Local por Voz** | `Python` `Ollama` `STT/TTS` `WSL` | Agente de voz autónomo y privado con LLMs locales, procesamiento de audio asíncrono y llamadas a herramientas del sistema. |
+| **Infraestructura Cloud y Pipelines en AWS** | `AWS ECS` `Fargate` `Docker` `IaC` | Despliegue de servicios en contenedores con CloudFormation, balanceadores ALB, monitorización en CloudWatch y ETL ambiental. |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pepemontesinos05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jose's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepemontesinos05&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemontesinos05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepemontesinos05&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Racha" width="48%" />
 </p>
