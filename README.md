@@ -62,6 +62,7 @@
 | :--- | :--- | :--- |
 | **Jarvis — Asistente de IA Local por Voz** | `Python` `Ollama` `STT/TTS` `WSL` | Agente de voz autónomo y privado con LLMs locales, procesamiento de audio asíncrono y llamadas a herramientas del sistema. |
 | **Infraestructura Cloud y Pipelines en AWS** | `AWS ECS` `Fargate` `Docker` `IaC` | Despliegue de servicios en contenedores con CloudFormation, balanceadores ALB, monitorización en CloudWatch y ETL ambiental. |
+| **Análisis de reddits con PLNE** | `Python` `Scikit-Learn` `Transformers` `Fasttext` | Análisis de reddits mediante comparación de modelos para clasificarlos, encontrar similitudes y resumirlos |
 
 ---
 
